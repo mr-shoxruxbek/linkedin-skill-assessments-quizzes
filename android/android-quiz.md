@@ -646,7 +646,7 @@ android {
      }
    }
 - [ ] productionDebug.
-- [ ] developmentDebug.
+- [x] developmentDebug.
 - [ ] stagingDebug.
 - [ ] stagingRelease.
 
